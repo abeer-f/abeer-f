@@ -4,9 +4,10 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
